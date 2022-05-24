@@ -7,7 +7,6 @@ The code starts with the assigning the folder with the initial images. They shou
 
 #### The setup
 The code worked on the Fiji (ImageJ2) in version of 2.3.0 installed on macOS.
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FIJI_%28software%29_Logo.svg/1200px-FIJI_%28software%29_Logo.svg.png)
 
 ## Presenting_figures.py
 The code employs [matplotlib](https://matplotlib.org) to create the final presenting figures for tumour, mid-tumour, control and presenting figure. The scale bar can be also added to images. See commented: 
